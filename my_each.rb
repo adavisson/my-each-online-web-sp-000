@@ -7,6 +7,6 @@ def my_each(arr) # put argument(s) here
       i += 1
     end
   else
-    return arr
+    arr
   end
 end
