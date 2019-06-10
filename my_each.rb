@@ -7,6 +7,6 @@ def my_each(arr) # put argument(s) here
       i += 1
     end
   else
-    puts "Block not given."
+    return "Block not given."
   end
 end
